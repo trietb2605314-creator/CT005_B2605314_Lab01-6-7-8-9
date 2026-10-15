@@ -1,4 +1,4 @@
-# BÁO CÁO BÀI 5: GIAO TIẾP TRỰC TUYẾN CƠ BẢN
+# THÔNG TIN BÀI THỰC HÀNH LAB08
 
 * **Họ và tên sinh viên:** [Nguyễn Võ Minh Triết]
 * **Mã số sinh viên (MSSV):** [B2605314]
