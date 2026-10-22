@@ -1,4 +1,4 @@
-## THÔNG TIN BÀI THỰC HÀNH LAB 07
+## THÔNG TIN BÀI THỰC HÀNH LAB 7
 - Họ tên Sinh viên: Nguyễn Võ Minh Triết
 - MSSV: B2605314
 - Lớp: DI26D1A1
