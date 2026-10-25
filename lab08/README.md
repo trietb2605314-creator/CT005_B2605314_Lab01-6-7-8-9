@@ -31,6 +31,6 @@
   * Trình chiếu slide PowerPoint nội dung Lab04.
   * Các thành viên thực hiện trao đổi, phát biểu qua voice và tương tác qua ô chat.
   * Quay video toàn bộ quá trình họp bằng phần mềm [OBS Studio / CapCut] (Thời lượng >= 1 phút).
-* **Link Video Youtube Báo Cáo:** [https://youtu.be/fPzDTEGTzKU?si=pbLx3LgaVej0U48R]
+* **Link Video Youtube Báo Cáo:** [https://youtu.be/5nsMuQg-G_8?si=-KEpiZ-BxWDIgGPF]
 
 ---
